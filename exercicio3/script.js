@@ -1,6 +1,7 @@
 //Crie a const para a frase aqui
 
 
+
 function substituirCores(frase) {
     
     frase = frase.replace("verde", "rosa");
@@ -17,3 +18,6 @@ const fraseComTrechoMaiusculo = fraseOriginal.replace(trecho, trechoMaiusculo)
 const fraseTrocada = substituirCores(fraseOriginal);
 console.log(fraseTrocada);
 console.log(fraseComTrechoMaiusculo);
+
+//lol
+=======
